@@ -1,0 +1,7 @@
+README
+Changes
+MANIFEST
+Makefile.PL
+META.yml
+lib/Apache/Auth/AuthMemCookie.pm
+t/00use.t

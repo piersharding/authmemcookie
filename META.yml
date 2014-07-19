@@ -1,0 +1,19 @@
+name:         Apache::Auth::AuthMemCookie
+abstract:     mod_perl replacement for Apache2 authmemcookie
+author:       Piers Harding <piers@cpan.org>
+license:      Perl
+version:      0.02
+resources:
+  license: http://dev.perl.org/licenses/
+  homepage: http://www.piersharding.com/blog/
+version_from: lib/Apache/Auth/AuthMemCookie.pm
+installdirs:  site
+requires:
+   perl: 5.008
+   Test::More: 0
+   CGI::Cookie: 0
+   Apache2::Const: 0
+   Apache2::Log: 0
+   Cache::Memcached: 0
+distribution_type: module
+generated_by: ME
