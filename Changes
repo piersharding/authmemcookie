@@ -7,3 +7,6 @@ Thu Jan 28 08:53:11 NZDT 2010
 
 Sat Jul 19 16:55:41 NZST 2014
     * set X-Remote-User as the default Header for REMOTE_USER
+
+Sun Jul 20 12:32:01 NZST 2014
+    * bump release number

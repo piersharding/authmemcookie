@@ -10,7 +10,7 @@ use Apache2::Const -compile => qw(OK REDIRECT FORBIDDEN AUTH_REQUIRED);
 use Apache2::Log;
 use Cache::Memcached;
 use vars qw($VERSION);
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 use Data::Dumper;
 
